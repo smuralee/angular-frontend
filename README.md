@@ -1,9 +1,6 @@
 # Demo UI using Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
-
-![Demo UI](demo-form.png "Demo UI using Angular")
-
+User interface using Angular Framework for demo purposes
 
 ## Build and run the application
 ```
